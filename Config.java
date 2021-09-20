@@ -1,4 +1,4 @@
-package com.sprinklr.ops.nocservice.config;
+package com.xxx.config;
 
 import org.elasticsearch.action.search.SearchRequest;
 import org.elasticsearch.client.transport.TransportClient;
